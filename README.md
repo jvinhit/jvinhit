@@ -1,16 +1,22 @@
-### Vinh Nguyen 👋
+# Vinh! 👋
+`// That means "hello" in Tagalog!`
 
-<!--
-**jvinhit/jvinhit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Adrienne Tacke speaking at NEJS Conf](https://avatars3.githubusercontent.com/u/6914702?s=400&u=16b4f8f6191fef00c36a7e8b224da54ebf5e0f4e&v=4)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer based in Viet Nam :flag-vn:.
+
+Currently, I'm a Senior Developer for Front-end Developer!
+
+Ultimately, what I want you to know most about me is that I love solving complex problems and building awesome things. Particularly with C# or JavaScript. Then, I talk about it and create resources for other devs to do the same. Most of those resources end up here!
+
+Thank you for stopping by!
+
+## Bonus Content:
+
+### 📫 How to reach me:
+
+- [Twitter](https://twitter.com/jvinhit)
+- [Instagram](https://www.instagram.com/jvinhit/)
+- [Email](mailto:jvinhit@gmail.com)
+
