@@ -12,11 +12,13 @@ Ultimately, what I want you to know most about me is that I love solving complex
 
 Thank you for stopping by!
 
-## Bonus Content:
+### Bonus Content:
 
-### 📫 How to reach me:
+### 📫 Let's connect:
 
 - [Twitter](https://twitter.com/jvinhit)
 - [Instagram](https://www.instagram.com/jvinhit/)
 - [Email](mailto:jvinhit@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homfarnam)](https://github.com/jvinhit)
 
