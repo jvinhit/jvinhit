@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🎯  _  I'm currently working as a software engineer based in 🇻🇳
 - 👀  _  I'm looking to collaborate on International Companies base in 🇻🇳
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=jvinhit)
+![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvinhit&count_private=true&theme=radical&show_icons=true)
 
 ### 📫 Let's connect:
 
