@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I'm a Frontend Developer.
-- 🎯 I'm currently working as a software engineer based in 🇻🇳.
-- 👀 I'm looking to collaborate on International Companies base in 🇻🇳.
+- 🌱  I'm a Frontend Developer.
+- 🎯  I'm currently working as a software engineer based in 🇻🇳.
+- 👀  I'm looking to collaborate on International Companies base in 🇻🇳.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=jvinhit)
 
