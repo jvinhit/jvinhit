@@ -1,8 +1,8 @@
-# Hi👋 I'm Vinh Nguyen,
+# Hi👋 I'm Vinh,
 
 Here are some ideas to get you started:
 
-- 🌱  _  I'm a Frontend Developer.
+- 🌱  _  I'm a Software Engineer.
 - 🎯  _  I'm currently working as a software engineer based in 🇻🇳
 - 👀  _  I'm looking to collaborate on International Companies base in 🇻🇳
 
